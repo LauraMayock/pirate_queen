@@ -5,6 +5,7 @@
     margin: 0;
     padding: 0;
     border: 0;
+    font-family: Oswald, sans-serif;
 }
 
 body{
@@ -212,7 +213,7 @@ text-align: right;
   height: 10vh;
   line-height: 2.6;
   text-decoration: none;
-  color: black;
+  color:#3a3a3a;
 }
 
 .box:hover { flex: 1 1 50%; }
@@ -258,13 +259,12 @@ footer {
 
 /* Contact us Form */
 #contact-us {
-  color: #000b0c;
-  width: 50%;
+  color:#3a3a3a;
 }
 
 /*Style get in touch header*/
-#contact-us, h3{
-padding-top: 40px;
+#form, h2{
+padding: 40px 0;
 
 }
 #form {
@@ -287,18 +287,18 @@ padding-top: 40px;
   width: 300px;
   height: 25px;
   font-size: 20px;
-  border: 2px solid #000809;
+  border: 2px solid #3a3a3a;;
 }
 
 #message {
   width: 300px;
   font-size: 20px;
-  border: 2px solid #000c0d;
+  border: 2px solid#3a3a3a;;
 }
 
 #form #button {
   width: 100px;
-  background-color: #000809;
+  background-color: #3a3a3a;;
   color: white;
 
 
@@ -306,7 +306,7 @@ padding-top: 40px;
 
 #form #button:hover {
   border: 2px solid white;
-  background-color: #000708;
+  background-color: #3a3a3a;
   color: white;
 }
 
