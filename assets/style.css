@@ -188,18 +188,20 @@ text-align: right;
   transition: .5s;
 }
 
-.box > span {
+.box > a {
   font-size: 3.8vh;
   display: block;
   text-align: center;
   height: 10vh;
   line-height: 2.6;
+  text-decoration: none;
+  color: black;
 }
 
 .box:hover { flex: 1 1 50%; }
 .box:hover > img {
   width: 100%;
-  height: 100%;
+
   
 }
  
