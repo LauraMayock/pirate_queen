@@ -124,11 +124,11 @@ hr{
   text-decoration: none;
   font-size: 110%;
   letter-spacing: 4px;
-  margin-left: 200px;
+  margin-left: 450px;
   color: #252525;
 }
 
-#more a:hover{
+#more:hover{
 border-bottom: 1px solid #3a3a3a;
 }
 
@@ -201,10 +201,13 @@ text-align: right;
 .box:hover { flex: 1 1 50%; }
 .box:hover > img {
   width: 100%;
-
-  
-}
  
+}
+
+.box span:hover{
+  border-bottom: 1px solid #3a3a3a;
+}
+
 
 /* footer */
 
