@@ -59,7 +59,6 @@ border-bottom:1px solid #3a3a3a
     height:600px;
     width:100%;
     overflow:hidden;
-
     position:relative;
 }
 
@@ -92,9 +91,27 @@ border-bottom:1px solid #3a3a3a
 }
 
 /* club ethos */
+#main{
+  font-family: Oswald, sans-serif;
+  padding: 30px;
+}
 
+#main-img{
+  height:600px;
+  width:100%;
+  position:relative;
+}
+
+#main_head{
+  font-family: Oswald, sans-serif;
+  padding:30px 30px 0;
+}
 #club-ethos{
 height: 300px;
+}
+
+#queens{
+  margin-top: 50px;
 }
 
 #left-about{
