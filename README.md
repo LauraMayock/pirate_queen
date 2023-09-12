@@ -1,9 +1,11 @@
-<img src="" width="30% " height="30%" alt="The Pirate queen">
+<img src="/assets/img/grace.jpg" width="30% " height="30%" alt="The Pirate queen">
 
-# **  **
+# Irelands Pirate Queen
+
+***Learn all about the thrilling workd of Grace O'Malley, the legendary Pirate Queen! Explore this HTML and CSS website to uncover the daring tales of Grace O'Malley's life on the highsea. From her fearless adventrues to her cunning strategies, learn about the fearless woman who ruled the waves in an era dominated by men, Join us on a voyage through history as we celebrate the indomitable spirit of Grace O'Malley, the Pirate Queen.
 
 
-You can view the live site here - <a href="https://lauramayock.github.io/motherandbaby/" target="_blank"> Westport Mother and baby. </a>
+You can view the live site here - <a href="https://github.com/LauraMayock/pirate_queen/" target="_blank"> Ireland's Pirate Queen </a>
 
 
 # Content
@@ -11,9 +13,6 @@ You can view the live site here - <a href="https://lauramayock.github.io/mothera
 * [Objectives](<#objective>)
 * [User Experience](<#user-experience-ux>)
     * [Target Audience](<#target-audience>)
-    * [First time user](<#user-experience-ux>)
-    * [Return user](<#user-experience-ux>)
-    * [Site Aims](<#site-aims>)
     * [Design Wireframes](<#design-wireframes>)
     * [Site Structure](<#site-structure>)
     * [Design Choices](<#design-choices>)
@@ -42,26 +41,15 @@ You can view the live site here - <a href="https://lauramayock.github.io/mothera
 
 # Objective
 
-The aim is to create a user-friendly website that provides helpful information to a specific user/audience. The reader has easy access to evident and relayed information on the topic of interest. 
+The aim of this website is to provide factual historical insight of Grace O'Malleys life. To educate and entertain visitors on the remarkable exploits of this historical icon.  
 
 [Back to top](#content)
 
 # User Experience (UX)
 
 ## Target Audience
-* Parents, Guardians and carers of babies and pre-school children looking to connect with others are their local community.
-* Parents, Guardians and carers of children are looking for information on upcoming events geared towards families.
+* The target audiance for this website will range from historical enthusiasts, students and anyone intrigued by the stories of strong and inconventional womenn in history. History buffs will find indepth information into Grace's life,while students can use the site as an educational tool. Those with a general interest will be captivated by the adventures and resillience of the daring woman. 
 
-## First time user
-As a first time visitor, I want a clear understanding of the purpose of the page and to navigate to the areas most important to me. I will be hoping to see local meet up schedules and a way to contact organisers if I have any other queries. It will be a pleasant surprise to have additional local resource information and the option to be added to a Whats app group.
-
-## Return user
-As a returning user, I will be taking advantage of the events page for my little ones, e.g. mother and baby yoga classes, baby massage and upcoming family events, and pre-book my place.
-
-## Site Aims
- * To provide the user with all the information on the weekly meetups. 
- * To offer information on upcomming events geared young families both within the Mother and baby group and within the grater Westport community. 
- * To create a welcoming and intuite website that provide a great online presence for the Mother and baby group. I also hope to try and make the users feel welcome with the imagery and tones used in the design as well as the testimonial section. I also aimed to give them as much value as HTML and CSS would allow with the added welcome of local events not linked to the mother and baby group pre-booking form and the ability to be added to a messaging group. Other features may be added in the future, such as direct booking for future events, a blog, a list of local community resources and a live chat area where moms can get to know each other on the site. 
 
 ## Design Wireframes
 The innitial goals and scope of the website were worked on and planned using figma. The sturctue and scope of the website differs from the initial planning as i deemed it important to initially approach the project considering all possible feature that would be benificial for both the customer and the user. This provide a good basis for a minimum viable product as well as future add ons.
