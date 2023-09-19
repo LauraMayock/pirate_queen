@@ -1,4 +1,4 @@
-<img src="/assets/img/grace.jpg" width="30% " height="30%" alt="The Pirate queen">
+<img src="https://res.cloudinary.com/dyhess8yw/image/upload/v1695152842/Pirate_queen/grace-omalley-800x500_tr0x37.jpg" width="60% " height="60%" alt="The Pirate queen">
 
 # Irelands Pirate Queen
 
@@ -71,36 +71,19 @@ Wireframes were created using Balsamiq:
 
 ## Site Stucture
 
-The website has four pages, with three accessible by the navigation bar at the top of the page. The Navigation bar consists of a Home tab(index.html), an Events tab(events.html) and a contact us tab(contact-us.html). The logo on the left-hand side of the navigation bar is also a link to the home page. The fourth page is accessible using the two form links on the events page. These bring you to a pre-booking from(pre-booking-form.html)  
+The website has seven pages, with three accessible by the navigation bar at the top of the page. The Navigation bar consists of a Home tab(index.html), an Her Story tab(history.html) and a contact us tab(contact-us.html). The logo on the left-hand side of the navigation bar is also a link to the home page. The final four pages are accessible using the four links under the 4 images on the home page. These bring you to pages showing key events in Grace O'Malleys life. 
 
 ## Design Choices
 
-I tried to keep the design simple and keep the users in mind, giving them as much value as possible within the remit given. I think this approach will make the user feel already part of the community and hopefully alleviate any anxiety they may think about reaching out.
+I tried to keep the design simple and keep the users in mind, giving them as much value as possible within the remit given. The historical information is given in a clear and easy to read snippets. 
 
 ### Imagery
 
-I found inspiration for my landing page from a fellow student's recent project submission.[Slack user name @Ivaylo Ivanov](https://daooobg.github.io/yogaClubProject) I loved the movement used in her hero element and looked to recreate it myself. I spent a great deal of time choosing the right hero image as I feel it sets the tone of the page and connects with the user.
-
-I have outlined some of my considerations in choosing the correct hero element below:
-
-* A video which is in tune with Mother and baby groups ethos.
-* Something engaging but not distracting.
-* No sharp, sudden movements.
-* No apparent end and beginning.
-* Something that works well on most if not all screen sizes.
- 
- After much searching consideration, I was happy to preseed with the below choice as I feel it ticked all the boxes.  
- [video](assets/images/pexels-max-vakhtbovych-7394158.mp4)
-
-The rest of the images on the website were purposely chosen to have the same natural tones as the hero image.
+The hero image was found on ????????. I loved the colours and felt it was a strong image that perfectly encapsulates Grace O'Malleys character.
  
 ### Logo
 
-After choosing the hero image, I then decided to design the Logo. Using the website Looka.com I tried to create something simple and elegant. 
-
-[Origional logo design](assets/images/Mother%20and%20baby%20Logo.png)
-
-Although I was initially thrilled with my design, I soon realised that the shape caused it to intrude into the hero image or create too much white space if placed on the navigation bar, this is clearly ilistrated in my wireframes. In the end, I decided to simplify it and go with the logo presently used on sight.
+The logo on the left-hand side of the screen is 
 
 ### Colour scheme
 

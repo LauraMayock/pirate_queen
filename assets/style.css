@@ -1,4 +1,3 @@
-@import url("https://fonts.googleapis.com/css2?family=Lato:9wght@300&family=Oswald:wght@200&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;700&display=swap");
 
 *{
@@ -103,6 +102,18 @@ border-bottom:1px solid #3a3a3a
   position:relative;
 }
 
+#rockfelt{
+  height:400px;
+  width:700px;
+  position:relative;
+  margin-left: 30px;
+}
+
+#resources {
+  margin: 0 30px;
+}
+
+
 #main_head{
   font-family: Oswald, sans-serif;
   padding:30px 30px 0;
@@ -112,7 +123,24 @@ height: 300px;
 }
 
 #queens{
-  margin-top: 50px;
+  height:300px;
+  width:600px;
+  position:relative;
+  margin:30px 30px;
+}
+
+#alliance{
+  height:300px;
+  width:600px;
+  position:relative;
+  margin:30px 30px;
+}
+
+#claire{
+  height:300px;
+  width:600px;
+  position:relative;
+  margin:30px 30px;
 }
 
 #left-about{
@@ -142,8 +170,12 @@ hr{
   text-decoration: none;
   font-size: 110%;
   letter-spacing: 4px;
-  margin-left: 450px;
+  text-align: center;
   color: #252525;
+}
+
+#text {
+  text-align: center;
 }
 
 #more:hover{
@@ -254,8 +286,24 @@ footer {
   text-align: center;
 }
 
-/*contact us page */
+#time_time{
+  height: 3800px;
+}
 
+/* google maps */
+
+.google-map {
+  padding-bottom: 50%;
+  position: relative;
+}
+
+.google-map iframe {
+  height: 100%;
+  width: 100%;
+  left: 0;
+  top: 0;
+  position: absolute;
+}
 
 /* Contact us Form */
 #contact-us {
@@ -287,13 +335,13 @@ padding: 40px 0;
   width: 300px;
   height: 25px;
   font-size: 20px;
-  border: 2px solid #3a3a3a;;
+  border: 1px solid #3a3a3a;;
 }
 
 #message {
   width: 300px;
   font-size: 20px;
-  border: 2px solid#3a3a3a;;
+  border: 1px solid#3a3a3a;;
 }
 
 #form #button {
@@ -567,4 +615,11 @@ h1 {
 }
 .credits a {
   color: var(--color);
+}
+
+@media (min-width: 320px) {
+    #logo {
+      font-size: 40px;
+      margin-left: 20px;
+    }
 }
