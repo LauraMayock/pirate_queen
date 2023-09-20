@@ -52,20 +52,13 @@ The aim of this website is to provide factual historical insight of Grace O'Mall
 
 
 ## Design Wireframes
-The innitial goals and scope of the website were worked on and planned using figma. The sturctue and scope of the website differs from the initial planning as i deemed it important to initially approach the project considering all possible feature that would be benificial for both the customer and the user. This provide a good basis for a minimum viable product as well as future add ons.
+The innitial goals and scope of the website were worked using pencil and paper. The sturctue and scope of the website differs from the initial planning a little but the main features are the same.
 
-<a href="https://www.figma.com/file/ZrhdkArvufV5uAUs5XSpKw/Westport-Mother-and-baby-group?node-id=0%3A1" target="_blank">Figma link</a>
+Wireframes were created using pen and paper:
 
-Wireframes were created using Balsamiq:
-
-<details><summary> Figma wireFrames</summary>
+<details><summary> Wire Frames</summary>
 
 ![Website layout](assets/images/Website%20layout.png)
-![Home page](assets/images/Home%20Page.png)
-![Smartphone](assets/images/Smartphone%20(Alternate%20755v)%20(Alternate%20755v).png)
-![tablet](assets/images/Tablet%20(Alternate%20322h)%20(Alternate%20322h).png)
-![News section](assets/images/News.png)
-![Contact us](assets/images/News.png)
 
 </details>
 
@@ -79,19 +72,19 @@ I tried to keep the design simple and keep the users in mind, giving them as muc
 
 ### Imagery
 
-The hero image was found on ????????. I loved the colours and felt it was a strong image that perfectly encapsulates Grace O'Malleys character.
+The hero image was found on <a href="https://www.historicmysteries.com/" alt="Historic Mysteries">the Historic Mysteries website</a>. I loved the colours and felt it was a strong image that perfectly encapsulates Grace O'Malleys character.
  
 ### Logo
 
-The logo on the left-hand side of the screen is 
+The logo on the left-hand side of the screen is plain, so not to take away from the main image. As this is a once-off website logo recognition is not important.
 
 ### Colour scheme
 
-My final choice of colours was chosen to fit in with the logo. A selection of Teal Green, and white. As the green was an intense colour, I knew they were a great choice of colour for contrasting, ensuring the eligibility of text and sticking with the theme of simplicity.
+I chose to make the colours very minimal. The main splashes of colour comes from the images and the timeline on the "Her story page". 
 
 ### Typography
 
-I chose two fonts from the google font gallery. Comfortaa for the main text and Patua One for the information in the footer and the font on the contactus form. I did try a few options to highlight the quote below the hero video but decided against it as it was too jarring. I chose Arial as the font family to fall back on for Comfortaa as it would still fit in with the feel of the page. And the font Georgia as a fallback for Patua One.
+I chose two fonts from the google font gallery. Oswald for the main text and sans-serif as a back up font. I did try a few options to highlight the quote below the hero video but decided against it as it was too jarring. Sans-serif would still fit in with the feel of the page. 
 
 [Back to top](<#content>)
 
@@ -101,8 +94,8 @@ I chose two fonts from the google font gallery. Comfortaa for the main text and 
 
 * The navigation menu is positioned at the top of each page and gives the user easy access to the main areas of the website.
 * The logo, which is also prominent on each page, gives an easy link back to the main page.
-* The navigational link to the Pre-booking form is purposely placed within the advertisements, which are solely related to the event organised by the mother and baby group.
-* This is to ensure minimum confusion for the user of the site.
+* The navigational link to the Her Story page is on the header navigation tabs as well as the contact us tab.
+* Three other pages are accessible from the main page where users can get a glimpse of a specific part of Grace O'Malleys life.
 * To ensure eligibility and easy use, the navigation bar converts from a row of navigation buttons at the top of the page to a row nestled beneath the logo on smaller screens.
 
 <a href="https://ibb.co/fdD9ZQw"><img src="https://i.ibb.co/7tkQBbm/RRSLJR4.png" alt="Nav-bar on a big screen"></a>
@@ -117,17 +110,13 @@ Navigation menu on a small screen.
 
 ## Home Page
 
-* As it is the landing page, it needed to appeal to the eye and striking. I wanted it to be memorable and unique but in keeping with the tone of the page. As the users lifesytles are busy, it is vital that the user immediately know they are on the correct website at a glance.
-* For the larger screens, the hero video is falling a bit below the screen; this intuitively nudges the user to scroll down. On the smaller screens, you can see the opening heading which, as well as the hero video, is purposely chosen to connect with the user. 
+* As it is the landing page, it needed to appeal to the eye and striking. I wanted it to be memorable and unique but in keeping with the tone of the page. It is vital for any website that the user immediately understand why the website was created and how they can benefit from it.
+* For the larger screens, the hero image you see the welcome text "Who is Grace O'Malley"; this intuitively nudges the user to scroll down. On the smaller screens, you can see the opening heading which, as well as the hero image, is purposely chosen to connect with the user. 
 
 
 <a href="https://ibb.co/Q8cs23j"><img src="https://i.ibb.co/KNGCMpz/RRGCJEM.png" alt="Landing page on a large screen"></a>
 
 Landing page large screen
-
-<a href="https://ibb.co/b1bFQnq"><img src="https://i.ibb.co/sjWCbrk/RCFMDZA.png" alt="Landing page on a medium screen"></a>
-
-Landing page medium screen
 
 <a href="https://ibb.co/tHYz79j"><img src="https://i.ibb.co/7SrQwqM/RGGCK6S.png" alt="landing page on a small screen"></a>
 
@@ -135,37 +124,25 @@ Landing page small screen
 
 
 
-* The main text area gives a quick overview of what to expect at each meeting. It provides critical information to alleviate user concerns by pointing out who the group facilitates and the amenities available to them and their child. 
+* Below the hero image I have used four responsive cards that display four key images related to Grace and headings that have a link to four pages that give a quick insight into key historical events in Grace O'Malleys life.
 
-* The Weekly meet up section gives a day, time and google link to the location of each of the meetups. Again the simple prominent design was purposely done for a user on the go. 
 
-* The Testimonials section is also a key element in encouraging anxious new parents that the Westport mother and baby group is perfect for them. It helps lay the foundation of trust and kinship with the user by providing testimonials from users to relate to.
-
-* Each element on this page has the first time user, the new parent eager to connect with their local community, and the returning user looking to find the information required quickly.
+* Each element on this page has the first-time user, immersed in the history of the Pirate queen. The paring of the images and snippets of text aren't too text-heavy.
 
 
 
-## Events Page
+## Her History
 
-* The events pages provide up to date information on events organised by the Mother and baby ground and the community. This gives parents and carers a one-stop destination to find events, courses and family fun in their area. Ensuring return users to the website and a continued connection with families that have moved on from baby/toddler-aged children. 
-
-* There are visuals for the user via photos of the events and a video with controls to give the user full control of its workings.
-
-* The events section also links a pre-booking from within the website (pre-booking-form.html). The user can pre-book their chosen event, and the organisers can gauge popularity in the event and plan accordingly.
-
-* I have purposely chosen to leave the link to the prebooking form blue and underlined; this is for easy recognition.
+* This pages provides a timeline of Graces life that touch on key elements in quick sentences or paragraphs. Links to more in dept resouces are also provided.
 
 <a href="https://ibb.co/3YCb272"><img src="https://res.cloudinary.com/dyhess8yw/image/upload/v1672144315/project%201/events_page_large_w0lz1o.png" alt="Events page on a big screen"></a>
 
-Events Page
+Her Story page
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/R9K0MRn/R7AWQWH.png" alt="Events page on a small screen"></a>
 
-Events Page Small Screen
+Her Story Page Small Screen
 
-<a href="https://ibb.co/5Gty0Hz"><img src="https://i.ibb.co/RYZmFwM/R8BOB3G.png" alt="image of weaning video"></a>
-
-Weaning video
 
 ## Pre-Booking Page
 
